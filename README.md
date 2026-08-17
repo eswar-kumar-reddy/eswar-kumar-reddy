@@ -1,240 +1,440 @@
-<div align="center">
-
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2044,50:1A73E8,100:0F2044&height=200&section=header&text=Eswar%20Kumar%20Reddy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&descColor=90CAF9" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=600&lines=Building+AI-powered+enterprise+solutions+%F0%9F%A4%96;RAG+%7C+LangGraph+%7C+Pinecone+%7C+OpenAI+API;Flask+%7C+FastAPI+%7C+Python+%7C+Computer+Vision;Junior+Software+Engineer+%40+Hetero+Healthcare" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=eswar-kumar-reddy&style=for-the-badge&color=1A73E8&label=PROFILE+VIEWS" alt="profile views" />
-&nbsp;
-<a href="https://www.linkedin.com/in/eswar-kumar-reddy">
-  <img src="https://img.shields.io/badge/LinkedIn-0F2044?style=for-the-badge&logo=linkedin&logoColor=1A73E8" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:eswarkumar68484@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0F2044?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```python
-class EswarKumarReddy:
-    def __init__(self):
-        self.name       = "Eswar Kumar Reddy Mangalapudi"
-        self.role       = "Junior Software Engineer @ Hetero Healthcare Ltd."
-        self.location   = "Hyderabad, India 🇮🇳"
-        self.education  = "B.Tech CSE (IoT) — Visvodaya Engineering College, 2024"
+Hi, I'm Eswar Kumar Reddy 
 
-    @property
-    def currently_building(self):
-        return [
-            "🤖 Enterprise RAG-based B2B AI Chatbot (LangGraph + Pinecone + OpenAI)",
-            "📦 Warehouse AI Monitoring System (YOLOv5 + Face Recognition + RTSP)",
-        ]
+AI/ML Developer | Python Developer | Computer Vision | LLMs | RAG
 
-    @property
-    def stack(self):
-        return {
-            "languages":   ["Python", "SQL", "JavaScript", "HTML5", "CSS3"],
-            "frameworks":  ["Flask", "FastAPI"],
-            "ai_ml":       ["OpenAI API", "LangGraph", "RAG", "YOLOv5", "OpenCV", "Face Recognition"],
-            "databases":   ["MySQL", "PostgreSQL", "Pinecone DB"],
-            "tools":       ["Git", "REST APIs", "RTSP Streams"],
-        }
-
-    @property
-    def currently_learning(self):
-        return ["LangChain", "Docker", "AWS", "LLM Fine-tuning"]
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing with AI 🚀")
-
-
-me = EswarKumarReddy()
-me.say_hi()
-```
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 RepIQ — B2B AI Chatbot
-Enterprise-grade RAG chatbot platform for intelligent document search and contextual response generation over large business knowledge bases.
-
-**Tech Stack:**
-`Python` `Flask` `FastAPI` `OpenAI API` `LangGraph` `Pinecone DB` `PostgreSQL`
-
-**Highlights:**
-- ✅ RAG architecture over 10,000+ business documents
-- ✅ Semantic search via Pinecone Vector DB
-- ✅ Real-time contextual response generation
-- ✅ RESTful API layer for full chatbot interaction
+I am a Junior Software Engineer at Hetero Healthcare with 1 year 10 months of professional experience, focused on building practical AI and software solutions for real-world business problems.
 
-</td>
-<td width="50%">
+My work spans Python development, Computer Vision, Generative AI, LLM applications, RAG pipelines, OCR, voicebots, backend APIs, automation, and GPU-accelerated AI systems. I enjoy taking an idea from proof of concept to a deployable application and continuously learning new technologies along the way.
 
-### 📦 Warehouse Tracker — AI Monitoring System
-Real-time warehouse surveillance system for automated employee tracking and object detection using state-of-the-art computer vision models.
+Currently focused on AI Engineering and Generative AI
 
-**Tech Stack:**
-`Python` `YOLOv5` `OpenCV` `Face Recognition` `RTSP`
+Working with LLMs, RAG, Computer Vision, OCR, and AI automation
 
-**Highlights:**
-- ✅ Real-time face recognition for employee ID
-- ✅ YOLOv5 object detection & inventory counting
-- ✅ Live RTSP multi-camera stream processing
-- ✅ Pose detection for worker activity monitoring
+Building and deploying applications on Azure servers
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Strong focus on Python and FastAPI
 
-### 💬 Mantra Bot — AI Chatbot
-Full-stack AI chatbot delivering intelligent, context-aware responses with structured conversation history and ChatGPT API integration.
+Career goal: AI Engineer
 
-**Tech Stack:**
-`Python` `Flask` `MySQL` `ChatGPT API` `JSON` `HTML` `CSS` `JavaScript`
+Based in India
 
-**Highlights:**
-- ✅ Production-ready Flask backend architecture
-- ✅ Structured JSON knowledge base management
-- ✅ MySQL session & chat history management
-- ✅ 30%+ improved accuracy via prompt engineering
+What I Build
 
-</td>
-<td width="50%">
+AI / ML Systems
+     ├── Computer Vision
+     │     ├── Object Detection & Tracking
+     │     ├── Face Recognition
+     │     ├── Vehicle Detection
+     │     └── ANPR
+     │
+     ├── Generative AI
+     │     ├── LLM Applications
+     │     ├── RAG Pipelines
+     │     ├── AI Chatbots
+     │     └── Conversational AI
+     │
+     ├── Document AI
+     │     ├── OCR
+     │     ├── Multilingual Text Extraction
+     │     └── Structured Data Extraction
+     │
+     ├── Voice AI
+     │     ├── Voicebots
+     │     ├── TTS Integration
+     │     └── IVR Automation
+     │
+     └── Software Engineering
+           ├── FastAPI / REST APIs
+           ├── MySQL
+           ├── Web Applications
+           ├── Automation
+           └── Azure Deployment
 
-### 🌱 Coming Soon...
-Actively working on new open-source projects in:
-- 🔬 LLM Fine-tuning experiments
-- 🛠️ FastAPI microservices boilerplate
-- 🤖 AI agent with tool use & memory
-- 📊 Computer Vision benchmarking tools
+Featured Projects
 
-**Stay tuned — ⭐ star this profile to get notified!**
+1. AI-Powered CCTV Surveillance & Intelligence Platform
 
-</td>
-</tr>
-</table>
+An AI-based surveillance platform designed for real-time monitoring, person detection, tracking, face recognition, posture analysis, and vehicle intelligence.
 
----
+Key capabilities
 
-## 🛠️ Tech Stack & Tools
+YOLO-based real-time person and vehicle detection
 
-<div align="center">
+Multi-camera RTSP stream processing
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-0F2044?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Flask](https://img.shields.io/badge/Flask-0F2044?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F2044?style=for-the-badge&logo=fastapi&logoColor=00D09C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F2044?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0F2044?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0F2044?style=for-the-badge&logo=css3&logoColor=1572B6)
+Persistent object tracking
 
-### AI / ML & Computer Vision
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0F2044?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangGraph-0F2044?style=for-the-badge&logo=chainlink&logoColor=1A73E8)
-![OpenCV](https://img.shields.io/badge/OpenCV-0F2044?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-0F2044?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+GPU-accelerated inference
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-0F2044?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F2044?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Pinecone](https://img.shields.io/badge/Pinecone_DB-0F2044?style=for-the-badge&logo=pinecone&logoColor=white)
+FP16 and TensorRT optimization
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-0F2044?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0F2044?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0F2044?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-0F2044?style=for-the-badge&logo=postman&logoColor=FF6C37)
+Face recognition using InsightFace
 
-</div>
+Person posture detection and logging
 
----
+Vehicle entry/exit tracking
 
-## 📊 GitHub Stats
+Automatic Number Plate Recognition (ANPR)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eswar-kumar-reddy&show_icons=true&theme=react&hide_border=true&bg_color=0F2044&title_color=1A73E8&icon_color=1A73E8&text_color=ffffff&ring_color=1A73E8" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eswar-kumar-reddy&layout=compact&theme=react&hide_border=true&bg_color=0F2044&title_color=1A73E8&text_color=ffffff&langs_count=8" />
-</div>
+Entry and exit timestamp reconciliation
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eswar-kumar-reddy&theme=react&hide_border=true&background=0F2044&ring=1A73E8&fire=1A73E8&currStreakLabel=1A73E8&sideNums=ffffff&sideLabels=90CAF9&currStreakNum=ffffff&dates=90CAF9" />
-</div>
+Centralized web dashboard with secure login
 
----
+Technologies
 
-## 🏆 GitHub Trophies
+Python YOLO OpenCV InsightFace ONNX TensorRT CUDA GPU Computer Vision
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eswar-kumar-reddy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
+2. AI-Powered Doctor Website Onboarding Portal
 
----
+A full-stack AI platform that helps collect doctor information conversationally and simplifies the creation/onboarding of doctor websites.
 
-## 📈 Contribution Graph
+Key capabilities
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eswar-kumar-reddy&bg_color=0F2044&color=1A73E8&line=1A73E8&point=ffffff&area=true&hide_border=true&area_color=1A73E820" />
-</div>
+AI-assisted doctor data collection
 
----
+Conversational data collection workflow
 
-## 📜 Certifications
+FastAPI backend
 
-<div align="center">
+React + TypeScript frontend
 
-| Certificate | Platform | Issuer |
-|---|---|---|
-| 🏅 Data Analysis with Python | Coursera | IBM |
-| 🏅 Python for Data Science, AI & Development | Coursera | IBM |
+ElevenLabs Text-to-Speech integration
 
-</div>
+Fallback handling for voice generation
 
----
+Admin controls
 
-## 🎓 Education
+Automated domain provisioning workflows
 
-**B.Tech — Computer Science and Engineering (IoT)**
-Visvodaya Engineering College, Kavali &nbsp;|&nbsp; 2020 – 2024 &nbsp;|&nbsp; **73.6%**
+Website onboarding automation
 
----
+Technologies
 
-## 🤝 Let's Connect
+Python FastAPI React TypeScript LLMs ElevenLabs REST API Automation
 
-<div align="center">
+3. Recruitment Automation Portal
 
-I'm actively looking for **AI Engineering** and **Backend Developer** opportunities.
+A recruitment automation platform designed to streamline the complete flow from job creation to resume screening and interview scheduling.
 
-<a href="https://www.linkedin.com/in/eswar-kumar-reddy">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0F2044?style=for-the-badge&logo=linkedin&logoColor=1A73E8" />
-</a>
-&nbsp;
-<a href="mailto:eswarkumar68484@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-0F2044?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
+Key capabilities
 
-<br/><br/>
+Job Description management with JD IDs
 
-> *"Building AI systems that are both intelligent and production-ready — one commit at a time."*
+Automated job posting workflow
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2044,50:1A73E8,100:0F2044&height=120&section=footer" />
+Resume ingestion through email
 
-</div>
+Resume-to-JD matching
+
+Weighted candidate scoring from 0–100
+
+Evaluation across skills, experience, education, location, and keywords
+
+Automated shortlist / reject workflow
+
+Interview scheduling
+
+Email automation with HR CC
+
+FastAPI + MySQL backend
+
+Responsive web interface
+
+Technologies
+
+Python FastAPI MySQL HTML CSS JavaScript REST API Automation NLP
+
+4. OCR & Document Intelligence Platform
+
+A document understanding application for extracting text and structured information from images and documents such as prescriptions, pamphlets, visiting cards, and other business documents.
+
+Key capabilities
+
+Image and document text extraction
+
+OCR for multilingual content
+
+Hindi / Telugu / English document processing
+
+LLM-assisted extraction of structured information
+
+Qwen2.5-VL experimentation
+
+PaddleOCR / EasyOCR / Surya OCR evaluation
+
+Automatic language-aware processing workflows
+
+Technologies
+
+Python Qwen2.5-VL OCR Hugging Face PaddleOCR Surya OCR LLMs
+
+5. Conversational AI Doctor Data Collection Bot
+
+A conversational AI workflow designed to collect doctor information through natural language interactions and convert conversations into structured business data.
+
+Key capabilities
+
+Conversational data collection
+
+Structured information extraction
+
+AI-driven question flow
+
+Text and voice interaction concepts
+
+Integration with backend APIs
+
+Doctor onboarding workflow automation
+
+Technologies
+
+Python LLMs FastAPI Prompt Engineering REST API Voice AI
+
+6. Digital Services Voicebot
+
+An intelligent conversational voice/text hybrid bot for collecting and processing doctor information through natural language interactions.
+
+Key capabilities
+
+Conversational voice interactions
+
+Dynamic information collection
+
+Text + voice hybrid workflow
+
+Data extraction from user responses
+
+TTS integration
+
+Backend API integration
+
+Technologies
+
+Python LLMs Voice AI TTS FastAPI REST API
+
+7. Bixiva Feedback Application
+
+A business feedback application for collecting, managing, and tracking doctor feedback through a web-based workflow.
+
+Key capabilities
+
+User authentication
+
+Doctor selection
+
+Multi-doctor feedback workflow
+
+Feedback submission
+
+Rating management
+
+Feedback URL handling
+
+Backend API integration
+
+MySQL data management
+
+Technologies
+
+Python FastAPI MySQL HTML CSS JavaScript REST API
+
+8. Azista Bhutan Automatic IVR Calling System
+
+An automated IVR calling workflow designed for outbound communication and business process automation.
+
+Technologies
+
+Python Voice AI IVR Automation APIs
+
+9. B2B AI Chatbot
+
+A business-oriented conversational AI application focused on answering user queries and supporting automated information retrieval.
+
+Technologies
+
+Python LLMs Prompt Engineering RAG REST API
+
+10. CMS AI Guided Editing Assistant
+
+A concept/workflow for helping customers use a CMS portal through conversational guidance instead of manually searching through admin options.
+
+Example use case
+
+A user can ask where or how to update a website section such as the About Us content, and the assistant guides the user through the correct CMS workflow.
+
+Technologies
+
+LLMs Conversational AI Prompt Engineering CMS Automation
+
+11. Common API Application
+
+A shared API application designed to provide centralized/common services that can be consumed by multiple internal applications.
+
+Technologies
+
+Python FastAPI REST API Backend Services
+
+12. All India Doctor Data Duplicate Detection Utility
+
+A large-scale data processing utility for identifying duplicate doctor records using business-defined matching parameters.
+
+Matching parameters
+
+Doctor Name
+
+Mobile Number
+
+Grade
+
+The utility was designed to process a large doctor dataset and generate a duplicate-marked output/report for further data cleansing.
+
+Technologies
+
+Python Pandas Excel Data Processing Data Quality
+
+Technical Skills
+
+Programming & Backend
+
+
+
+
+
+
+AI / Machine Learning
+
+
+
+
+
+
+
+Core areas: Computer Vision · Object Detection · Object Tracking · Face Recognition · OCR · LLMs · RAG · Prompt Engineering · Generative AI · AI Automation
+
+Generative AI & Voice AI
+
+LLM application development
+
+RAG pipeline development
+
+Prompt engineering
+
+Ollama
+
+OpenAI API
+
+Hugging Face models
+
+Qwen2.5-VL
+
+ElevenLabs
+
+Sarvam AI
+
+Conversational AI
+
+TTS integration
+
+GPU & AI Optimization
+
+CUDA / GPU acceleration
+
+ONNX Runtime
+
+TensorRT
+
+FP16 inference
+
+Batch inference
+
+GPU-optimized computer vision pipelines
+
+Web & Application Development
+
+HTML / CSS / JavaScript
+
+React / TypeScript
+
+FastAPI
+
+REST APIs
+
+MySQL
+
+Authentication and admin workflows
+
+Deployment & Engineering
+
+Azure server deployment
+
+Git / GitHub
+
+API integration
+
+Production troubleshooting
+
+Performance optimization
+
+AI model deployment
+
+Professional Highlights
+
+Built real-world AI-powered computer vision systems for surveillance and intelligence use cases.
+
+Worked on GPU-accelerated inference pipelines using TensorRT, ONNX, FP16, and CUDA.
+
+Developed LLM-powered applications including chatbots, conversational AI, OCR/document intelligence, and RAG workflows.
+
+Built FastAPI-based backend systems and integrated them with web applications and external services.
+
+Worked on voice AI solutions using ElevenLabs, Sarvam AI, TTS, and IVR workflows.
+
+Developed automation solutions for recruitment, doctor onboarding, data processing, and business workflows.
+
+Experienced in taking AI prototypes toward deployable applications and Azure-based environments.
+
+Certifications
+
+IBM — Coursera
+
+Data Analysis with Python
+
+Python for Data Science, AI & Development
+
+Education
+
+B.Tech — Computer Science & Engineering (IoT)
+Visvodaya Engineering College
+Graduated: 2024
+
+Currently Learning
+
+Advanced Generative AI
+
+RAG architecture and optimization
+
+Agentic AI
+
+LLM application architecture
+
+Production AI deployment
+
+AI system optimization
+
+Advanced Computer Vision
+
+Connect With Me
+
+GitHub: https://github.com/eswar-kumar-reddy
+
+LinkedIn: https://www.linkedin.com/in/eswar-kumar-reddy
+
+My Engineering Philosophy
+
+Build practical solutions, understand the technology behind them, optimize for real-world constraints, and keep learning.
+
+I am especially interested in opportunities where AI, software engineering, and real-world business problems come together.
+
+Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me for AI/ML, Computer Vision, Generative AI, or software engineering opportunities.
